@@ -1,0 +1,11 @@
+{
+  "name": "youtube-ai-worker",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.4.1"
+  }
+}

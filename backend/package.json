@@ -1,0 +1,17 @@
+{
+  "name": "youtube-ai-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "body-parser": "^1.20.2",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.0",
+    "node-fetch": "^3.4.1",
+    "nodemon": "^2.0.22"
+  }
+}
